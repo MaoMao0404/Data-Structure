@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验一 学生健康管理系统", "实验一 学生健康管理系统.vcxproj", "{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Debug|x64.ActiveCfg = Debug|x64
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Debug|x64.Build.0 = Debug|x64
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Debug|x86.Build.0 = Debug|Win32
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Release|x64.ActiveCfg = Release|x64
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Release|x64.Build.0 = Release|x64
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Release|x86.ActiveCfg = Release|Win32
+		{6DE13EAD-1813-42D7-97A5-6AF9BF243DDC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22BBEF8E-1923-48A4-8C2C-C7780E25F34A}
+	EndGlobalSection
+EndGlobal
